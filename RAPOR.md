@@ -33,7 +33,7 @@ Bize dogru ve yanlis sayilarini vererk 4 islem kullanmamizi saglayip netleri ve 
 
 ## 5. Akış Şeması
 
-![Akış Şeması](docs/akis-semasi.png)
+![Akış Şeması](docs/akis-semasi.png) Maalesefki assansor sorusunda png koydum amaaa caliksmadi nasil yapildigini cozene kadar yukleyemeyecegim ama en kisa srede ogrenecegim bu aksakliktan dolayi ozur dilerim.
 
 ## 6. Başarı Durumu Koşulları
 Net aralığı	Başarı durumu
