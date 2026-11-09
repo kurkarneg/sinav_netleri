@@ -40,7 +40,7 @@ Net aralığı	Başarı durumu
 0–5	Geliştirilmeli
 5'ten büyük – 10	Orta
 10'dan büyük – 15	İyi
-15'ten büyük – 20	Çok iyi
+15'ten büyük – 20	Çok iyi bu kismi direk sizin branchten koyalayip yapistirdim cunku sadece orada oyle bir sey yaziyordu o yuzden oradakii yazacagiz diye dusundum
 
 
 ## 7. Test Sonuçları
